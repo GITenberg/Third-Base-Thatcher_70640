@@ -1,0 +1,42 @@
+_repo: Third-Base-Thatcher_70640
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Crump, Leslie
+    birthdate: 1894
+    deathdate: 1962
+    gutenberg_agent_id: '44200'
+    url: http://www.gutenberg.org/2009/agents/44200
+creator:
+  author:
+    agent_name: Scott, Everett
+    aliases:
+    - Scott, Everett (Deacon)
+    - Scott, Deacon
+    birthdate: 1892
+    deathdate: 1960
+    gutenberg_agent_id: '55841'
+    url: http://www.gutenberg.org/2009/agents/55841
+    wikipedia: https://en.wikipedia.org/wiki/Everett_Scott
+description: ''
+gutenberg_issued: '2023-04-24'
+identifiers:
+  gutenberg: '70640'
+language: en
+pgterms:marc905: 20180925151240scott
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bDodd, Mead and Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Baseball -- Juvenile fiction'
+- !lcsh 'Teenage boys -- Juvenile fiction'
+- !lcsh 'Baseball stories'
+- !lcc 'PZ'
+- GITenberg
+title: Third Base Thatcher
+url: http://www.gutenberg.org/ebooks/70640
